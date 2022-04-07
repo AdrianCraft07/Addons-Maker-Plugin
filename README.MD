@@ -1,1 +1,1 @@
-##Snippets of create plugins addons maker
+## Snippets of create plugins addons maker
